@@ -1,10 +1,18 @@
 # I++ Club
 
-Welcome to the I++ Club! We are a passionate community of developers, creators, and innovators dedicated to fostering meaningful projects and technologies through the power of collaboration and open-source development. Initially, the I++ Club originated as a student organization in university, but as core members graduated and joined the workforce, club activities gradually expanded to a broader social scope, now also serving programmers from the working class. We encourage technology enthusiasts to explore the unlimited possibilities in the IT field together, promote technical exchange and innovation, and create a more open and inclusive technical culture.
+Welcome to the I++ Club! We are a passionate community of developers, creators, and innovators dedicated to fostering meaningful projects and technologies through the power of collaboration and open-source development.
+
+Initially, the I++ Club originated as a student organization in university, but as core members graduated and joined the workforce, club activities gradually expanded to a broader social scope, now also serving programmers from the working class.
+
+We encourage technology enthusiasts to explore the unlimited possibilities in the IT field together, promote technical exchange and innovation, and create a more open and inclusive technical culture.
 
 ## Our Philosophy
 
-The name **I++** comes from the operator in programming languages, symbolizing continuous improvement—just as the "i++" operator increases the value of "i" by 1, we hope to gradually accumulate and constantly enhance our abilities. Our core philosophy is hands-on practice, participating in development competitions, creating real projects, and learning cutting-edge technologies. Our motto is: "Building a utopia for programmers!" We aim to provide an open, free, and creative environment for all programmers.
+The name **I++** comes from the operator in programming languages, symbolizing continuous improvement—just as the "i++" operator increases the value of "i" by 1, we hope to gradually accumulate and constantly enhance our abilities.
+
+Our core philosophy is hands-on practice, participating in development competitions, creating real projects, and learning cutting-edge technologies.
+
+Our motto is: "Building a utopia for programmers!" We aim to provide an open, free, and creative environment for all programmers.
 
 ## Main Projects
 
@@ -23,4 +31,6 @@ The name **I++** comes from the operator in programming languages, symbolizing c
 
 ------
 
-The I++ Club is a community full of creativity and passion, encouraging everyone to explore new technologies, create impactful projects, and continuously break through their limitations. If you are looking for like-minded partners to collaborate on innovative projects, we welcome you to join us! Let's take action together to do something different.
+The I++ Club is a community full of creativity and passion, encouraging everyone to explore new technologies, create impactful projects, and continuously break through their limitations.
+
+If you are looking for like-minded partners to collaborate on innovative projects, we welcome you to join us! Let's take action together to do something different.
