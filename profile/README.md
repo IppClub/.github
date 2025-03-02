@@ -1,5 +1,9 @@
 # I++ Club
 
+[![简体中文](https://img.shields.io/badge/语言-简体中文-blue)](README_zh.md)
+[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
+
+
 Welcome to the I++ Club! We are a passionate community of developers, creators, and innovators dedicated to fostering meaningful projects and technologies through the power of collaboration and open-source development.
 
 Initially, the I++ Club originated as a student organization in university, but as core members graduated and joined the workforce, club activities gradually expanded to a broader social scope, now also serving programmers from the working class.
