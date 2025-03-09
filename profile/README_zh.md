@@ -12,16 +12,17 @@
 
 | 分类 | 项目名称 | 介绍 | 仓库连接 |
 | - | - | - | - |
-| **游戏技术** | **Dora-SSR** | 跨平台的游戏引擎，内置 Web IDE，提供便捷的游戏开发和编程学习环境，适用于移动、嵌入式设备及掌机上的游戏开发。 | [链接](https://gitcode.com/ippclub/Dora-SSR) |
-| | **Dora-Wa** | 一个语言绑定项目，使 Wa 语言能够与 Dora SSR 游戏引擎集成。 | [链接](https://gitcode.com/ippclub/Dora-Wa) |
-| | **Dora-Story** | 为 Dora SSR 引擎开发的视觉小说游戏框架。 | [链接](https://gitcode.com/ippclub/Dora-Story) |
-| **游戏项目** | **Dora-Demo** | 一个用于演示 Dora SSR 引擎的游戏示例项目。 | [链接](https://gitcode.com/ippclub/Dora-Demo) |
-| | **LSD** | 开源游戏《灵数奇缘》的代码仓库。 | [链接](https://luv-sense-digital.readthedocs.io/) |
-| | **LSD-spine-1x** | 为《灵数奇缘》制作的低分辨率 Spine2D 动画模型。 | [链接](https://gitcode.com/ippclub/LSD-spine-1x) |
-| | **LSD-spine-2x** | 为《灵数奇缘》制作的高分辨率 Spine2D 动画模型。 | [链接](https://gitcode.com/ippclub/LSD-spine-2x) |
-| | **LSD-doc** | 《灵数奇缘》的游戏策划文档及网站项目。 | [链接](https://gitcode.com/ippclub/LSD-doc) |
+| **游戏技术** | **Dora-SSR** | 跨平台的游戏引擎，内置 Web IDE，提供便捷的游戏开发和编程学习环境，适用于移动、嵌入式设备及掌机上的游戏开发。 | [链接](https://github.com/ippclub/Dora-SSR) |
+| | **Dora-Wa** | 一个语言绑定项目，使 Wa 语言能够与 Dora SSR 游戏引擎集成。 | [链接](https://github.com/ippclub/Dora-Wa) |
+| | **Dora-Story** | 为 Dora SSR 引擎开发的视觉小说游戏框架。 | [链接](https://github.com/ippclub/Dora-Story) |
+| **游戏项目** | **Dora-Demo** | 一个用于演示 Dora SSR 引擎的游戏示例项目。 | [链接](https://github.com/ippclub/Dora-Demo) |
+| | **LSD** | 开源游戏《灵数奇缘》的代码仓库。 | [链接](https://github.com/ippclub/LSD) |
+| | **LSD-spine-1x** | 为《灵数奇缘》制作的低分辨率 Spine2D 动画模型。 | [链接](https://github.com/ippclub/LSD-spine-1x) |
+| | **LSD-spine-2x** | 为《灵数奇缘》制作的高分辨率 Spine2D 动画模型。 | [链接](https://github.com/ippclub/LSD-spine-2x) |
+| | **LSD-doc** | 《灵数奇缘》的游戏策划文档及网站项目。 | [链接](https://luv-sense-digital.readthedocs.io) |
 | **编程语言** | **YueScript** | 一门强大且简洁的编译到 Lua 的编程语言。 | [链接](https://atomgit.com/ippclub/YueScript) |
-| | **YarnFlow** | 一个在 Lua 上运行的游戏互动故事脚本系统。 | [链接](https://gitcode.com/ippclub/YarnFlow) |
+| | **YarnFlow** | 一个在 Lua 上运行的游戏互动故事脚本系统。 | [链接](https://github.com/ippclub/YarnFlow) |
+| **聊天插件** | **NCatBot-LLM插件** | 适用于 NCatBot 的 LLM 聊天插件，提供增强的语言模型交互能力。 | [链接](https://github.com/IppClub/ncatbot-catcat) |
 
 ------
 

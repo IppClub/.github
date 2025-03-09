@@ -26,12 +26,13 @@ Our motto is: "Building a utopia for programmers!" We aim to provide an open, fr
 | | **Dora Wa** | A language binding project that enables the Wa language to integrate with the Dora SSR game engine. | [Link](https://github.com/ippclub/Dora-Wa) |
 | | **Dora Story** | A visual novel game framework developed for the Dora SSR engine. | [Link](https://github.com/ippclub/Dora-Story) |
 | **Game Projects** | **Dora Demo** | A game example project to demonstrate the Dora SSR engine. | [Link](https://github.com/ippclub/Dora-Demo) |
-| | **LSD** | Code repository for the open-source game "Luv Sense Digital". | [Link](https://luv-sense-digital.readthedocs.io/) |
+| | **LSD** | Code repository for the open-source game "Luv Sense Digital". | [Link](https://github.com/ippclub/LSD) |
 | | **LSD spine 1x** | Low-resolution Spine2D animation models created for "Luv Sense Digital". | [Link](https://github.com/ippclub/LSD-spine-1x) |
 | | **LSD spine 2x** | High-resolution Spine2D animation models created for "Luv Sense Digital". | [Link](https://github.com/ippclub/LSD-spine-2x) |
-| | **LSD doc** | Game design documents and website project for "Luv Sense Digital". | [Link](https://github.com/ippclub/LSD-doc) |
+| | **LSD doc** | Game design documents and website project for "Luv Sense Digital". | [Link](https://luv-sense-digital.readthedocs.io) |
 | **Programming Languages** | **YueScript** | A powerful and concise programming language that compiles to Lua. | [Link](https://github.com/ippclub/YueScript) |
 | | **YarnFlow** | An interactive story script system for games that runs on Lua. | [Link](https://github.com/ippclub/YarnFlow) |
+| **Chat Plugin** | **NCatBot-LLM Plugin** | A chat plugin for NCatBot that provides enhanced language model interaction capabilities. | [Link](https://github.com/ippclub/ncatbot-catcat) |
 
 ------
 
