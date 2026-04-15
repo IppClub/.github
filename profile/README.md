@@ -34,10 +34,17 @@ Our motto is: "Building a utopia for programmers!" We aim to provide an open, fr
 | | **LSD spine 2x** | High-resolution Spine2D animation models created for "Luv Sense Digital". | [Link](https://github.com/ippclub/LSD-spine-2x) |
 | **Programming Languages** | **YueScript** | A powerful and concise programming language that compiles to Lua. | [Link](https://github.com/ippclub/YueScript) |
 | | **YarnFlow** | An interactive story script system for games that runs on Lua. | [Link](https://github.com/ippclub/YarnFlow) |
+| **Tools** | **SimpleBili** | A focused Bilibili UP creator content synchronization tool. | [Link](https://github.com/ippclub/SimpleBili) |
 | **Chat Plugins** | **NCatBot-LLM Plugin** | A chat plugin for NCatBot that provides enhanced language model interaction capabilities. | [Link](https://github.com/ippclub/ncatbot-catcat) |
 | | **NCatBot-Virtual Friend** | An NCatBot plugin: AI private chatbot powered by DeepSeek. | [Link](https://github.com/ippclub/ncatbot-virtual_friend) |
 | **Community & Tools** | **Blogroll** | A collection of blogs from SEU I++ Club members. | [Link](https://github.com/ippclub/blogroll) |
 | | **Homebrew Tap** | The Homebrew tap for IppClub software. | [Link](https://github.com/ippclub/homebrew-tap) |
+
+## Archived Projects
+
+| Project Name | Introduction | Repository Link |
+| - | - | - |
+| **LSD doc** | Game design documents and website project for "Luv Sense Digital". | [Link](https://luv-sense-digital.readthedocs.io) |
 
 ------
 
