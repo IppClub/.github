@@ -16,12 +16,12 @@
 | | **NCatBot-Virtual Friend** | 基于 DeepSeek 大模型的 AI 私聊 NCatBot 插件。 | [链接](https://github.com/ippclub/ncatbot-virtual_friend) |
 | **社区与工具** | **Blogroll** | 东南大学 I++ Club 收集同学们的博客。 | [链接](https://github.com/ippclub/blogroll) |
 | | **Homebrew Tap** | IppClub 软件的 Homebrew tap。 | [链接](https://github.com/ippclub/homebrew-tap) |
-| **游戏技术** | **Dora-Demo** | 一个用于演示 Dora SSR 引擎的游戏示例项目。 | [链接](https://github.com/ippclub/Dora-Demo) |
-| | **Dora-Example** | Dora SSR 开源游戏引擎功能示例，通过代码片段演示。 | [链接](https://github.com/ippclub/Dora-Example) |
+| **游戏技术** | **Dora-SSR** | 跨平台的游戏引擎，内置 Web IDE 和 Coding Agent，提供便捷的游戏开发和编程学习环境，适用于移动、嵌入式设备及掌机上的游戏开发。 | [链接](https://github.com/ippclub/Dora-SSR) |
 | | **Dora-OSG** | 为 Dora SSR 开源游戏引擎生态系统设计的自托管 Web 服务。 | [链接](https://github.com/ippclub/Dora-OSG) |
-| | **Dora-SSR** | 跨平台的游戏引擎，内置 Web IDE 和 Coding Agent，提供便捷的游戏开发和编程学习环境，适用于移动、嵌入式设备及掌机上的游戏开发。 | [链接](https://github.com/ippclub/Dora-SSR) |
-| | **Dora-Story** | 为 Dora SSR 引擎开发的视觉小说游戏框架。 | [链接](https://github.com/ippclub/Dora-Story) |
 | | **Dora-Wa** | 一个语言绑定项目，使 Wa 语言能够与 Dora SSR 游戏引擎集成。 | [链接](https://github.com/ippclub/Dora-Wa) |
+| | **Dora-Story** | 为 Dora SSR 引擎开发的视觉小说游戏框架。 | [链接](https://github.com/ippclub/Dora-Story) |
+| | **Dora-Example** | Dora SSR 开源游戏引擎功能示例，通过代码片段演示。 | [链接](https://github.com/ippclub/Dora-Example) |
+| | **Dora-Demo** | 一个用于演示 Dora SSR 引擎的游戏示例项目。 | [链接](https://github.com/ippclub/Dora-Demo) |
 | | **OpenHarmony Dora SSR** | Dora SSR 开源游戏引擎的 OpenHarmony 移植版本。 | [链接](https://github.com/ippclub/ohos_dora_ssr) |
 | **游戏项目** | **LSD** | 开源游戏《灵数奇缘》的代码仓库。 | [链接](https://github.com/ippclub/LSD) |
 | | **LSD-spine-1x** | 为《灵数奇缘》制作的低分辨率 Spine2D 动画模型。 | [链接](https://github.com/ippclub/LSD-spine-1x) |
