@@ -24,10 +24,17 @@
 | | **LSD-spine-2x** | 为《灵数奇缘》制作的高分辨率 Spine2D 动画模型。 | [链接](https://github.com/ippclub/LSD-spine-2x) |
 | **编程语言** | **YueScript** | 一门强大且简洁的编译到 Lua 的编程语言。 | [链接](https://github.com/ippclub/YueScript) |
 | | **YarnFlow** | 一个在 Lua 上运行的游戏互动故事脚本系统。 | [链接](https://github.com/ippclub/YarnFlow) |
+| **工具** | **SimpleBili** | 一个专注于 B 站 UP 主内容同步的工具。 | [链接](https://github.com/ippclub/SimpleBili) |
 | **聊天插件** | **NCatBot-LLM插件** | 适用于 NCatBot 的 LLM 聊天插件，提供增强的语言模型交互能力。 | [链接](https://github.com/IppClub/ncatbot-catcat) |
 | | **NCatBot-Virtual Friend** | 基于 DeepSeek 大模型的 AI 私聊 NCatBot 插件。 | [链接](https://github.com/ippclub/ncatbot-virtual_friend) |
 | **社区与工具** | **Blogroll** | 东南大学 I++ Club 收集同学们的博客。 | [链接](https://github.com/ippclub/blogroll) |
 | | **Homebrew Tap** | IppClub 软件的 Homebrew tap。 | [链接](https://github.com/ippclub/homebrew-tap) |
+
+## 已归档项目
+
+| 项目名称 | 介绍 | 仓库连接 |
+| - | - | - |
+| **LSD-doc** | 《灵数奇缘》的游戏策划文档及网站项目。 | [链接](https://luv-sense-digital.readthedocs.io) |
 
 ------
 
