@@ -35,6 +35,7 @@
 | 项目名称 | 介绍 | 仓库连接 |
 | - | - | - |
 | **LSD-doc** | 《灵数奇缘》的游戏策划文档及网站项目。 | [链接](https://luv-sense-digital.readthedocs.io) |
+| **Awesome Tutorials** | 各类技术优秀教程的精选列表。 | [链接](https://github.com/ippclub/awesome-tutorials) |
 
 ------
 
