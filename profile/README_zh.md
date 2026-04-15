@@ -26,8 +26,8 @@
 | **游戏项目** | **LSD** | 开源游戏《灵数奇缘》的代码仓库。 | [链接](https://github.com/ippclub/LSD) |
 | | **LSD-spine-1x** | 为《灵数奇缘》制作的低分辨率 Spine2D 动画模型。 | [链接](https://github.com/ippclub/LSD-spine-1x) |
 | | **LSD-spine-2x** | 为《灵数奇缘》制作的高分辨率 Spine2D 动画模型。 | [链接](https://github.com/ippclub/LSD-spine-2x) |
-| **编程语言** | **YarnFlow** | 一个在 Lua 上运行的游戏互动故事脚本系统。 | [链接](https://github.com/ippclub/YarnFlow) |
-| | **YueScript** | 一门强大且简洁的编译到 Lua 的编程语言。 | [链接](https://github.com/ippclub/YueScript) |
+| **编程语言** | **YueScript** | 一门强大且简洁的编译到 Lua 的编程语言。 | [链接](https://github.com/ippclub/YueScript) |
+| | **YarnFlow** | 一个在 Lua 上运行的游戏互动故事脚本系统。 | [链接](https://github.com/ippclub/YarnFlow) |
 | **工具** | **SimpleBili** | 一个专注于 B 站 UP 主内容同步的工具。 | [链接](https://github.com/ippclub/SimpleBili) |
 
 ## 已归档项目
