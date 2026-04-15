@@ -36,8 +36,8 @@ Our motto is: "Building a utopia for programmers!" We aim to provide an open, fr
 | **Game Projects** | **LSD** | Code repository for the open-source game "Luv Sense Digital". | [Link](https://github.com/ippclub/LSD) |
 | | **LSD spine 1x** | Low-resolution Spine2D animation models created for "Luv Sense Digital". | [Link](https://github.com/ippclub/LSD-spine-1x) |
 | | **LSD spine 2x** | High-resolution Spine2D animation models created for "Luv Sense Digital". | [Link](https://github.com/ippclub/LSD-spine-2x) |
-| **Programming Languages** | **YarnFlow** | An interactive story script system for games that runs on Lua. | [Link](https://github.com/ippclub/YarnFlow) |
-| | **YueScript** | A powerful and concise programming language that compiles to Lua. | [Link](https://github.com/ippclub/YueScript) |
+| **Programming Languages** | **YueScript** | A powerful and concise programming language that compiles to Lua. | [Link](https://github.com/ippclub/YueScript) |
+| | **YarnFlow** | An interactive story script system for games that runs on Lua. | [Link](https://github.com/ippclub/YarnFlow) |
 | **Tools** | **SimpleBili** | A focused Bilibili UP creator content synchronization tool. | [Link](https://github.com/ippclub/SimpleBili) |
 
 ## Archived Projects
