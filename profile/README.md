@@ -29,7 +29,7 @@ Our motto is: "Building a utopia for programmers!" We aim to provide an open, fr
 | **Game Development** | **Dora Demo** | A game example project to demonstrate the Dora SSR engine. | [Link](https://github.com/ippclub/Dora-Demo) |
 | | **Dora Example** | Dora SSR open-source game engine feature examples demonstrated through code snippets. | [Link](https://github.com/ippclub/Dora-Example) |
 | | **Dora OSG** | A self-hosted web service designed for the Dora SSR open-source game engine ecosystem. | [Link](https://github.com/ippclub/Dora-OSG) |
-| | **Dora SSR** | A cross-platform game engine with a built-in Web IDE, providing a convenient environment for game development and programming learning, suitable for game development on mobile, embedded devices, and handheld consoles. | [Link](https://github.com/ippclub/Dora-SSR) |
+| | **Dora SSR** | A cross-platform game engine with a built-in Web IDE and Coding Agent, providing a convenient environment for game development and programming learning, suitable for game development on mobile, embedded devices, and handheld consoles. | [Link](https://github.com/ippclub/Dora-SSR) |
 | | **Dora Story** | A visual novel game framework developed for the Dora SSR engine. | [Link](https://github.com/ippclub/Dora-Story) |
 | | **Dora Wa** | A language binding project that enables the Wa language to integrate with the Dora SSR game engine. | [Link](https://github.com/ippclub/Dora-Wa) |
 | | **OpenHarmony Dora SSR** | The OpenHarmony port of the Dora SSR open-source game engine. | [Link](https://github.com/ippclub/ohos_dora_ssr) |
