@@ -45,6 +45,7 @@ Our motto is: "Building a utopia for programmers!" We aim to provide an open, fr
 | Project Name | Introduction | Repository Link |
 | - | - | - |
 | **LSD doc** | Game design documents and website project for "Luv Sense Digital". | [Link](https://luv-sense-digital.readthedocs.io) |
+| **Awesome Tutorials** | A curated list of awesome tutorials for various technologies. | [Link](https://github.com/ippclub/awesome-tutorials) |
 
 ------
 
